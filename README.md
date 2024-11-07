@@ -1,2 +1,2 @@
-# reactjs
-My ReactJS coding pattern
+# My ReactJS coding pattern
+
